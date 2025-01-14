@@ -1,5 +1,5 @@
 ##### WELCOMEEEEEEEEEEEEE ##########
-This project is a starter template for building a React application using Vite. It includes a simple user directory that fetches and displays user data from an external API.
+This project includes a simple user directory that fetches and displays user data from an external API.
 
 ## Project Structure
 
